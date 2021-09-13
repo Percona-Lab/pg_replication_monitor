@@ -1,0 +1,5 @@
+# pg_replication_monitor extension
+comment = 'track execution statistics of all SQL statements executed'
+default_version = '1.0'
+module_pathname = '$libdir/pg_replication_monitor'
+relocatable = true
